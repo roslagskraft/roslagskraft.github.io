@@ -11,9 +11,9 @@ Vindkraftverket innan årsskiftet.
 
 Se vidare:
 
-- Tillståndsansökan
-- Miljökonsekvensbeskrivning
-- Projektstöd
+- [Tillståndsansökan](/doc/Roslagskraft-Tillstandansokan.pdf)
+- [Miljökonsekvensbeskrivning](/doc/Roslagskraft-MiljoKonsekvensBeskrivning.pdf)
+- [Projektstöd](/doc/Roslagskraft-Projektstod.pdf)
 - Bygglovsansökan
 
 Vår inriktning nu är i huvudsak ekonomiska- och informationsfrågor såsom:
