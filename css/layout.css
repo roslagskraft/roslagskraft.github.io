@@ -29,6 +29,7 @@ nav ul {
 
 nav li {
   display: block;
+  font-size: 1.8rem;
 }
 
 @media (min-width: 40rem) {
