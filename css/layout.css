@@ -1,0 +1,38 @@
+header {
+  margin: 2rem 0 3rem 0;
+  border-bottom: 1px solid #ddd;
+}
+
+header h1 img {
+  height: 7rem;
+  width: auto;
+}
+
+header aside {
+  text-align: right;
+}
+
+header aside img {
+  margin-top: 3.5rem;
+  height: 3.5rem;
+  width: auto;
+}
+
+nav {
+  padding-left: 2rem;
+}
+
+nav ul {
+  list-style: none;
+}
+
+nav li {
+  display: block;
+}
+
+@media (min-width: 40rem) {
+  .row .column.column-25-sm {
+    flex: 0 0 25%;
+    max-width: 25%;
+  }
+}
