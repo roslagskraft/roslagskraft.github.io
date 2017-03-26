@@ -4,25 +4,22 @@ header {
 }
 
 header h1 img {
-  height: 7rem;
+  height: 5rem;
   width: auto;
 }
 
 header aside {
-  text-align: right;
+  float: right;
 }
 
 header aside img {
-  margin-top: 3.5rem;
-  height: 3.5rem;
+  margin-top: 2.5rem;
+  height: 2.5rem;
   width: auto;
 }
 
-nav {
-  padding-left: 2rem;
-}
-
 nav ul {
+  padding-left: 2rem;
   list-style: none;
 }
 
@@ -34,5 +31,12 @@ nav li {
   .row .column.column-25-sm {
     flex: 0 0 25%;
     max-width: 25%;
+  }
+  header h1 img {
+    height: 7rem;
+  }
+  header aside img {
+    margin-top: 3.5rem;
+    height: 3.5rem;
   }
 }

@@ -5,7 +5,7 @@ Styrelsen kan nås via epost [info@roslagskraft.se](mailto:info@roslagskraft.se
 
 ### Styrelse
 
-**Ledamöter**
+#### Ledamöter
 
 Åke Wennmalm, ordförande<br>
 Strömmen 2421<br>
@@ -31,7 +31,7 @@ Hammarby Backe 12<br>
 764 91 Väddö<br>
 Tel: 073-509 96 76
 
-**Suppleanter**
+#### Suppleanter
 
 Hans Wahllöf<br>
 Bofjärdsvägen 5<br>

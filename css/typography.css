@@ -5,6 +5,15 @@ body {
   color: #333;
 }
 
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  letter-spacing: 0;
+}
+
 a {
   color: #07d;
 }
@@ -12,6 +21,11 @@ a {
 a:focus,
 a:hover {
   color: #111;
+}
+
+ul {
+  padding-left: 3rem;
+  list-style: disc;
 }
 
 li {
