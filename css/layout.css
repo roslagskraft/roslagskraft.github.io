@@ -1,5 +1,9 @@
+body {
+  padding-bottom: 4rem;
+}
+
 header {
-  margin: 2rem 0 3rem 0;
+  margin: 2rem 0 4rem 0;
   border-bottom: 1px solid #ddd;
 }
 
@@ -36,7 +40,10 @@ nav li {
     height: 7rem;
   }
   header aside img {
-    margin-top: 3.5rem;
+    margin-top: 3rem;
     height: 3.5rem;
+  }
+  article {
+    padding-right: 2rem;
   }
 }
