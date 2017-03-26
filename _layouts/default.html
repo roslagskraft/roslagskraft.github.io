@@ -10,33 +10,40 @@
 </head>
 
 <body>
-
   <header>
     <div class="container">
-      <h1><img src="/img/roslagskraft-logo.png" alt="Roslagskraft" /></h1>
-      <aside><img src="/img/leader.jpg" alt="LEADER Lokalt ledd utveckling" /></aside>
+      <div class="row">
+        <div class="column">
+          <h1><img src="/img/roslagskraft-logo.png" alt="Roslagskraft" /></h1>
+        </div>
+        <div class="column">
+          <aside><img src="/img/leader.jpg" alt="LEADER Lokalt ledd utveckling" /></aside>
+        </div>
+      </div>
     </div>
   </header>
-
   <div class="container">
     <div class="row">
-      <nav class="column column-25">
-        <ul>
-          <li><a href="/">Start</a></li>
-          <li><a href="/nyheter">Nyheter</a></li>
-          <li><a href="/bli-medlem">Bli medlem</a></li>
-          <li><a href="/kontakt">Kontakt</a></li>
-          <li><a href="/stadgar">Stadgar</a></li>
-          <li><a href="/lankar">Länkar</a></li>
-          <li><a href="/seminarium">Seminarium</a></li>
-        </ul>
-      </nav>
-      <article class="column">
-        {{ content }}
-      </article>
+      <div class="column column-25-sm">
+        <nav>
+          <ul>
+            <li><a href="/">Start</a></li>
+            <li><a href="/nyheter">Nyheter</a></li>
+            <li><a href="/bli-medlem">Bli medlem</a></li>
+            <li><a href="/kontakt">Kontakt</a></li>
+            <li><a href="/stadgar">Stadgar</a></li>
+            <li><a href="/lankar">Länkar</a></li>
+            <li><a href="/seminarium">Seminarium</a></li>
+          </ul>
+        </nav>
+      </div>
+      <div class="column">
+        <article>
+          {{ content }}
+        </article>
+      </div>
     </div>
   </div>
-
 </body>
 
 </html>
