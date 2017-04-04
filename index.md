@@ -14,7 +14,7 @@ Se vidare:
 - [Tillståndsansökan](/doc/Roslagskraft-Tillstandansokan.pdf)
 - [Miljökonsekvensbeskrivning](/doc/Roslagskraft-MiljoKonsekvensBeskrivning.pdf)
 - [Projektstöd](/doc/Roslagskraft-Projektstod.pdf)
-- Bygglovsansökan
+- [Bygglovsansökan](/doc/Bygglovsansokan.pdf)
 
 Vår inriktning nu är i huvudsak ekonomiska- och informationsfrågor såsom:
 
