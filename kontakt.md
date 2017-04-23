@@ -7,7 +7,12 @@ Styrelsen kan nås via epost [info@roslagskraft.se](mailto:info@roslagskraft.se
 
 #### Ledamöter
 
-Åke Wennmalm, ordförande<br>
+Claes Örtendahl, ordförande<br>
+Slåttsundsvägen 20<br>
+76041 Arholma<br>
+Tel: 0702-592 666
+
+Åke Wennmalm, V. ordförande<br>
 Strömmen 2421<br>
 760 40 Väddö<br>
 Tel: 073-747 15 35
@@ -15,11 +20,6 @@ Tel: 073-747 15 35
 Camilla Forsberg, sekreterare<br>
 Arholma Södra Byväg 37<br>
 760 41 Arholma
-
-Claes Örtendahl, ledamot<br>
-Slåttsundsvägen 20<br>
-76041 Arholma<br>
-Tel: 0702-592 666
 
 Dan Johansson, ledamot<br>
 Sennebyvägen 53<br>
@@ -46,4 +46,4 @@ Tel: 070-563 30 06
 Max Hermelin<br>
 Lilla Torget 4<br>
 761 30 Norrtälje<br>
-Tel 70-920 05 30
+Tel: 070-920 05 30

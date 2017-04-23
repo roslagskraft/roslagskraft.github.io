@@ -1,6 +1,14 @@
 ## Nyheter
 
 
+#### 2017-04-23
+
+Nytt medlemsbrev finns att hämta:
+
+Ladda ner som PDF här: [Medlemsbrev Roslagskraft april 2017](/doc/Medlemsbrev-Roslagskraft-april-2017.pdf)
+
+<hr>
+
 #### 2017-04-11
 
 En ny folder har tagits fram.
