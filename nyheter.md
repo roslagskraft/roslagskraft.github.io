@@ -1,6 +1,14 @@
 ## Nyheter
 
 
+#### 2017-05-13
+
+Brev till Roslagskrafts medlemmar.
+
+Ladda ner som PDF här: [Brev till Roslagskrafts medlemmar](/doc/Brev-till-Roslagskrafts-medlemmar-20170511.pdf)
+
+<hr>
+
 #### 2017-04-23
 
 Nytt medlemsbrev finns att hämta:
