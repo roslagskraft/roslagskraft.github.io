@@ -9,16 +9,15 @@ sätta upp ett Vindkraftverk på Väddö i Tomta strax söder om Grisslehamn.
 </div>
 
 Genom att vi nu fått ytterligare stöd från Jordbruksverket och Leader Stockholmbygd
-har vi kunnat genomföra nödvändiga studier för att ta fram en
-Miljökonsekvensbeskrivning samt en Tillståndsansökan till Länsstyrelsen. Vidare har vi
-lämnat in ansökan om Bygglov till Kommunen. Vi räknar med att få ett beslut att uppföra
-Vindkraftverket innan årsskiftet.
+har vi kunnat genomföra tre nya delprojekt nämligen certifiering av vindanalys,
+fotomontage som visar vindkraftverkets påverkan på landskapsbilden och en
+fågelstudie. Vidare har vi lämnat in ansökan om Bygglov till Kommunen.
 
 Se vidare:
 
 - [Tillståndsansökan](/doc/Roslagskraft-Tillstandansokan.pdf)
 - [Miljökonsekvensbeskrivning](/doc/Roslagskraft-MiljoKonsekvensBeskrivning.pdf)
-- [Projektstöd](/doc/Roslagskraft-Projektstod.pdf)
+- [Projektstöd](/projektstod.html)
 - [Bygglovsansökan](/doc/Bygglovsansokan.pdf)
 
 Vår inriktning nu är i huvudsak ekonomiska- och informationsfrågor såsom:
