@@ -2,7 +2,7 @@
 
 Planerad slutprodukt är ett vindkraftverk med placering i Tomta, Väddö (Norrtälje kommun). Vi har
 tidigare beviljats medel för en första etapp som inkluderat vindmätning och andra förberedelser.
-Denna etapp 1 är framgångsrikt avslutad. Vi har nu med stöd av Jordbruksverket och Lieder
+Denna etapp 1 är framgångsrikt avslutad. Vi har nu med stöd av Jordbruksverket och Leader
 Stockholmsbygd genomfört 3 delprojekt. (1) Certifiering av vindanalys. (2) fotomodellering av
 landskapspåverkan, (3) skadeanalys av flyttfågelsträck. De tre delprojekten är.
 
@@ -10,7 +10,7 @@ landskapspåverkan, (3) skadeanalys av flyttfågelsträck. De tre delprojekten �
 mätmast och SODAR. Analysen visar hittills att etablering är ekonomiskt genomförbar. När vi i etapp
 4 vänder oss till våra andelsägare, allmänheten i Roslagen, små och medelstora företag i Roslagen
 liksom till våra bankförbindelser krävs att vindanalysen vi själva gjort blivit certifierad av en
-oberoende konsult. Denna certifiering har ÅfF-Industry genomfört.
+oberoende konsult. Denna certifiering har ÅF-Industry genomfört.
 
 2. En känslig faktor vid etableringen av vindkraftverket är påverkan på landskapsbilden.
 Etableringsplatsen är belägen i skogsområde, men höjden på verket (98 m navhöjd) kan i känsliga
