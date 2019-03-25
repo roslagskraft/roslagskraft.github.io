@@ -10,7 +10,12 @@ Roslagskraft verkar för att hyresgäster också ska få sätta upp solceller, a
 Roslagskraft verkar för att den som sätter upp solceller på sitt fritidshus eller i en solcellspark ska få flytta den elen hem till lägenheten i stan. Det skulle innebära att Norrtälje kommun med sina många fritidshus kan ge ett stort bidrag till ökad förnyelsebar elkraft.
 Synpunkter på denna målbeskrivning välkomnas!
 
-Styrelsen  Roslagskraft ek. för.
+Styrelsen Roslagskraft ek. för.
+
+
+#### Intresseanmälan Roslagskraft 2019
+
+[Intresseanmälan som blir underlag för upphandling av förnyelsebar elkraft. Klicka här för att komma till enkäten.](https://www.surveymonkey.com/r/LKV3PY2)
 
 
 #### Dokument
