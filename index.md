@@ -17,7 +17,8 @@ Styrelsen Roslagskraft ek. för.
 
 Som medlem betalar du en insats på 100 kronor som är en engångsinsats som du senare har rätt att få tillbaka om du väljer att gå ur den ekonomiska föreningen. Utöver detta tillkommer en årlig serviceavgift/medlemsavgift för privatperson 150 kr, enmansföretag 200 kr, företag upp till 10 anställda 500 kr, företag över 10 anställda 1000 kr.
 
-Medlem blir du enklast genom att betala in direkt på föreningens Bankgiro 771-0015. Ange namn och adress, mobil nr och epostadress.
+Medlem blir du enklast genom att betala in direkt på föreningens **Bankgiro 771-0015**. Ange namn och adress, mobil nr och epostadress.
+
 
 #### Intresseanmälan
 
