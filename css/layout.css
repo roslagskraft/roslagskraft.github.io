@@ -32,6 +32,12 @@ nav li {
   font-size: 1.8rem;
 }
 
+.jv-container > .jv-image {
+  height: 200px;
+  width: auto;
+  margin-right: 1rem;
+}
+
 @media (min-width: 40rem) {
   .row .column.column-25-sm {
     flex: 0 0 25%;
@@ -46,5 +52,8 @@ nav li {
   }
   article {
     padding-right: 2rem;
+  }
+  .jv-container {
+    display: flex;
   }
 }

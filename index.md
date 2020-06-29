@@ -19,22 +19,6 @@ Som medlem betalar du en insats på 100 kronor som är en engångsinsats som du 
 
 Medlem blir du enklast genom att betala in direkt på föreningens **Bankgiro 771-0015**. Ange namn och adress, mobil nr och epostadress.
 
-
-#### Intresseanmälan
-
-Anmäl ditt intresse att delta i en gemensam upphandling av solceller på det egna taket och på marken samt dessutom andelar i vindkraftverk och förmånliga priser på köpt el och såld överskottsel från egna anläggningar.
-
-Du betalar en administrationsavgift på 2% av din nuvarande årskostnad för elkraft innan du skickar in ditt svar. Svara helst före 1 maj.
-
-Tillsammans kan vi få ny kunskap och bättre villkor. Klicka på denna länk:
-
-[Intresseanmälan Roslagskraft 2019](https://sv.surveymonkey.com/r/LKVQ6BR)
-
-
 #### Dokument
-
-[Protokoll Konstituerande styrelsemöte Roslagskraft 7 april 2018](doc/Konst_stm_2018_Roslagskraft.pdf)
-
-[Protokoll Ordinarie Föreningsstämma Roslagskraft 7 april 2018](doc/Protokoll_Roslagskraft_ord_stm_2018.pdf)
 
 [Stadgar (7 april 2018)](doc/Roslagskraft_Stadgar_2018.pdf)
